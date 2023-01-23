@@ -107,7 +107,7 @@ public class Game {
                 if (movementsCounter > 8 && Objects.equals(winner, "")) {
                     winner = "Draw";
                 }
-            }else {
+            } else {
                 System.out.print("That box is already taken. Chose another one.\n");
             }
         }
