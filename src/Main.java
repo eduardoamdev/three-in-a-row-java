@@ -2,7 +2,7 @@ package src;
 import java.util.Objects;
 import java.util.Scanner;
 
-public class Game {
+public class Main {
     public static void main(String[] args){
         String title = "Tres en Raya";
         String winner = "";
